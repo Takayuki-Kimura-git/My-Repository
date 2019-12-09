@@ -1,0 +1,484 @@
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 6 activated an event with value 5 at iteration 4 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.017103
+decryption time taken is : 0.015951
+serial encryption time taken is : 0.017700
+serial decryption time taken is : 0.015037
+the speed up is : 0.990416
+communicational time taken is : 0.084514  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 11 activated an event with value 8 at iteration 4 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003597
+decryption time taken is : 0.005546
+serial encryption time taken is : 0.008282
+serial decryption time taken is : 0.007101
+the speed up is : 1.682646
+communicational time taken is : 0.164718  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 12 activated an event with value 3 at iteration 4 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.005589
+decryption time taken is : 0.003695
+serial encryption time taken is : 0.007412
+serial decryption time taken is : 0.007100
+the speed up is : 1.563083
+communicational time taken is : 0.120872  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 11 activated an event with value 3 at iteration 5 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.009491
+decryption time taken is : 0.023336
+serial encryption time taken is : 0.007188
+serial decryption time taken is : 0.007166
+the speed up is : 0.437263
+communicational time taken is : 0.048977  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 12 activated an event with value 3 at iteration 6 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003588
+decryption time taken is : 0.005661
+serial encryption time taken is : 0.007760
+serial decryption time taken is : 0.007148
+the speed up is : 1.611918
+communicational time taken is : 0.089066  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 11 activated an event with value 8 at iteration 6 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003610
+decryption time taken is : 0.007117
+serial encryption time taken is : 0.007149
+serial decryption time taken is : 0.007166
+the speed up is : 1.334423
+communicational time taken is : 0.079808  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 13 activated an event with value 1 at iteration 7 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.022393
+decryption time taken is : 0.011956
+serial encryption time taken is : 0.015190
+serial decryption time taken is : 0.007139
+the speed up is : 0.650071
+communicational time taken is : 0.080118  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 8 activated an event with value 8 at iteration 7 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.022577
+decryption time taken is : 0.003590
+serial encryption time taken is : 0.007176
+serial decryption time taken is : 0.007086
+the speed up is : 0.545063
+communicational time taken is : 0.038337  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 11 activated an event with value 3 at iteration 7 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003600
+decryption time taken is : 0.003581
+serial encryption time taken is : 0.007181
+serial decryption time taken is : 0.007156
+the speed up is : 1.996498
+communicational time taken is : 0.205752  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 12 activated an event with value 1 at iteration 8 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.004855
+decryption time taken is : 0.007778
+serial encryption time taken is : 0.007190
+serial decryption time taken is : 0.007149
+the speed up is : 1.135085
+communicational time taken is : 0.056478  
+time stamp: 2019/10/19 Sat 19:26:18  message: sensor node 13 activated an event with value 8 at iteration 8 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003626
+decryption time taken is : 0.010018
+serial encryption time taken is : 0.015192
+serial decryption time taken is : 0.007100
+the speed up is : 1.633790
+communicational time taken is : 0.062792  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 6 activated an event with value 8 at iteration 9 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003583
+decryption time taken is : 0.040125
+serial encryption time taken is : 0.007148
+serial decryption time taken is : 0.007109
+the speed up is : 0.326201
+communicational time taken is : 0.077171  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 7 activated an event with value 8 at iteration 8 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.005281
+decryption time taken is : 0.003584
+serial encryption time taken is : 0.007049
+serial decryption time taken is : 0.007073
+the speed up is : 1.593051
+communicational time taken is : 0.166556  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 8 activated an event with value 3 at iteration 8 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003623
+decryption time taken is : 0.003611
+serial encryption time taken is : 0.007029
+serial decryption time taken is : 0.007026
+the speed up is : 1.943165
+communicational time taken is : 0.177561  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 11 activated an event with value 1 at iteration 9 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.023024
+decryption time taken is : 0.008176
+serial encryption time taken is : 0.016876
+serial decryption time taken is : 0.007168
+the speed up is : 0.770636
+communicational time taken is : 0.140731  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 12 activated an event with value 8 at iteration 9 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.011792
+decryption time taken is : 0.005698
+serial encryption time taken is : 0.008958
+serial decryption time taken is : 0.007583
+the speed up is : 0.945782
+communicational time taken is : 0.159635  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 13 activated an event with value 3 at iteration 9 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003680
+decryption time taken is : 0.006634
+serial encryption time taken is : 0.012138
+serial decryption time taken is : 0.007158
+the speed up is : 1.870835
+communicational time taken is : 0.252082  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 6 activated an event with value 3 at iteration 10 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.011864
+decryption time taken is : 0.012389
+serial encryption time taken is : 0.012538
+serial decryption time taken is : 0.007199
+the speed up is : 0.813766
+communicational time taken is : 0.173720  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 7 activated an event with value 3 at iteration 9 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.006502
+decryption time taken is : 0.005627
+serial encryption time taken is : 0.026457
+serial decryption time taken is : 0.007229
+the speed up is : 2.777216
+communicational time taken is : 0.223623  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 8 activated an event with value 8 at iteration 9 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.024217
+decryption time taken is : 0.003625
+serial encryption time taken is : 0.007086
+serial decryption time taken is : 0.007119
+the speed up is : 0.510213
+communicational time taken is : 0.303696  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 11 activated an event with value 8 at iteration 10 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.011164
+decryption time taken is : 0.006869
+serial encryption time taken is : 0.007797
+serial decryption time taken is : 0.007470
+the speed up is : 0.846623
+communicational time taken is : 0.282445  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 12 activated an event with value 3 at iteration 10 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.008183
+decryption time taken is : 0.004134
+serial encryption time taken is : 0.007266
+serial decryption time taken is : 0.014726
+the speed up is : 1.785533
+communicational time taken is : 0.209891  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 13 activated an event with value 1 at iteration 11 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.017883
+decryption time taken is : 0.006835
+serial encryption time taken is : 0.023815
+serial decryption time taken is : 0.017463
+the speed up is : 1.669989
+communicational time taken is : 0.217860  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 14 activated an event with value 4 at iteration 13 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.014329
+decryption time taken is : 0.011444
+serial encryption time taken is : 0.007220
+serial decryption time taken is : 0.007215
+the speed up is : 0.560104
+communicational time taken is : 0.219178  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 6 activated an event with value 3 at iteration 12 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.008991
+decryption time taken is : 0.010681
+serial encryption time taken is : 0.007191
+serial decryption time taken is : 0.007168
+the speed up is : 0.729877
+communicational time taken is : 0.247659  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 7 activated an event with value 8 at iteration 10 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003880
+decryption time taken is : 0.013381
+serial encryption time taken is : 0.007270
+serial decryption time taken is : 0.007182
+the speed up is : 0.837269
+communicational time taken is : 0.390233  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 8 activated an event with value 3 at iteration 10 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.020194
+decryption time taken is : 0.003742
+serial encryption time taken is : 0.007197
+serial decryption time taken is : 0.007159
+the speed up is : 0.599755
+communicational time taken is : 0.450462  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 11 activated an event with value 3 at iteration 11 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.023773
+decryption time taken is : 0.005479
+serial encryption time taken is : 0.007237
+serial decryption time taken is : 0.007214
+the speed up is : 0.493998
+communicational time taken is : 0.367532  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 12 activated an event with value 5 at iteration 11 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.004606
+decryption time taken is : 0.006038
+serial encryption time taken is : 0.007197
+serial decryption time taken is : 0.007690
+the speed up is : 1.398622
+communicational time taken is : 0.400703  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 13 activated an event with value 1 at iteration 12 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003807
+decryption time taken is : 0.005643
+serial encryption time taken is : 0.007237
+serial decryption time taken is : 0.007792
+the speed up is : 1.590430
+communicational time taken is : 0.404638  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 14 activated an event with value 4 at iteration 14 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.029821
+decryption time taken is : 0.019898
+serial encryption time taken is : 0.012184
+serial decryption time taken is : 0.013157
+the speed up is : 0.509678
+communicational time taken is : 0.274580  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 6 activated an event with value 5 at iteration 13 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.004433
+decryption time taken is : 0.010858
+serial encryption time taken is : 0.007169
+serial decryption time taken is : 0.016522
+the speed up is : 1.549335
+communicational time taken is : 0.392594  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 7 activated an event with value 3 at iteration 11 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003647
+decryption time taken is : 0.003836
+serial encryption time taken is : 0.007309
+serial decryption time taken is : 0.014433
+the speed up is : 2.905423
+communicational time taken is : 0.495318  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 8 activated an event with value 5 at iteration 11 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.014683
+decryption time taken is : 0.003974
+serial encryption time taken is : 0.007077
+serial decryption time taken is : 0.007071
+the speed up is : 0.758325
+communicational time taken is : 0.542073  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 11 activated an event with value 4 at iteration 13 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003740
+decryption time taken is : 0.003610
+serial encryption time taken is : 0.007152
+serial decryption time taken is : 0.007134
+the speed up is : 1.943724
+communicational time taken is : 0.420013  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 12 activated an event with value 5 at iteration 12 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003626
+decryption time taken is : 0.004546
+serial encryption time taken is : 0.007332
+serial decryption time taken is : 0.007213
+the speed up is : 1.779909
+communicational time taken is : 0.555666  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 13 activated an event with value 1 at iteration 13 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.005900
+decryption time taken is : 0.004364
+serial encryption time taken is : 0.021164
+serial decryption time taken is : 0.007179
+the speed up is : 2.761301
+communicational time taken is : 0.572087  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 14 activated an event with value 4 at iteration 15 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003872
+decryption time taken is : 0.003618
+serial encryption time taken is : 0.007221
+serial decryption time taken is : 0.007289
+the speed up is : 1.937212
+communicational time taken is : 0.476981  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 6 activated an event with value 1 at iteration 14 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.039860
+decryption time taken is : 0.003903
+serial encryption time taken is : 0.007239
+serial decryption time taken is : 0.007360
+the speed up is : 0.333597
+communicational time taken is : 0.441447  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 7 activated an event with value 1 at iteration 12 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003626
+decryption time taken is : 0.003790
+serial encryption time taken is : 0.007454
+serial decryption time taken is : 0.007523
+the speed up is : 2.019699
+communicational time taken is : 0.675429  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 8 activated an event with value 5 at iteration 12 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003558
+decryption time taken is : 0.003842
+serial encryption time taken is : 0.007856
+serial decryption time taken is : 0.007944
+the speed up is : 2.134999
+communicational time taken is : 0.694337  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 11 activated an event with value 4 at iteration 14 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.008301
+decryption time taken is : 0.003897
+serial encryption time taken is : 0.007834
+serial decryption time taken is : 0.009069
+the speed up is : 1.385708
+communicational time taken is : 0.589815  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 12 activated an event with value 4 at iteration 13 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003749
+decryption time taken is : 0.003796
+serial encryption time taken is : 0.007539
+serial decryption time taken is : 0.007559
+the speed up is : 2.001196
+communicational time taken is : 0.676338  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 13 activated an event with value 4 at iteration 14 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.006002
+decryption time taken is : 0.003742
+serial encryption time taken is : 0.007385
+serial decryption time taken is : 0.007961
+the speed up is : 1.574899
+communicational time taken is : 0.685033  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 14 activated an event with value 4 at iteration 16 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.022359
+decryption time taken is : 0.003958
+serial encryption time taken is : 0.008479
+serial decryption time taken is : 0.007892
+the speed up is : 0.622057
+communicational time taken is : 0.476297  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 7 activated an event with value 1 at iteration 13 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.009956
+decryption time taken is : 0.003924
+serial encryption time taken is : 0.007880
+serial decryption time taken is : 0.007888
+the speed up is : 1.135983
+communicational time taken is : 0.644252  
+time stamp: 2019/10/19 Sat 19:26:19  message: sensor node 8 activated an event with value 5 at iteration 13 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003654
+decryption time taken is : 0.003998
+serial encryption time taken is : 0.007884
+serial decryption time taken is : 0.007901
+the speed up is : 2.062911
+communicational time taken is : 0.764355  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 11 activated an event with value 4 at iteration 15 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003660
+decryption time taken is : 0.003947
+serial encryption time taken is : 0.007925
+serial decryption time taken is : 0.007934
+the speed up is : 2.084841
+communicational time taken is : 0.603957  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 12 activated an event with value 4 at iteration 14 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.008939
+decryption time taken is : 0.003865
+serial encryption time taken is : 0.007883
+serial decryption time taken is : 0.007439
+the speed up is : 1.196678
+communicational time taken is : 0.683645  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 13 activated an event with value 5 at iteration 15 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.012805
+decryption time taken is : 0.003916
+serial encryption time taken is : 0.007829
+serial decryption time taken is : 0.007740
+the speed up is : 0.931085
+communicational time taken is : 0.599334  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 8 activated an event with value 4 at iteration 15 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.013994
+decryption time taken is : 0.003857
+serial encryption time taken is : 0.007516
+serial decryption time taken is : 0.007432
+the speed up is : 0.837362
+communicational time taken is : 0.546963  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 9 activated an event with value 1 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.014377
+decryption time taken is : 0.003793
+serial encryption time taken is : 0.007809
+serial decryption time taken is : 0.007894
+the speed up is : 0.864238
+communicational time taken is : 0.472534  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 11 activated an event with value 4 at iteration 16 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.011587
+decryption time taken is : 0.004033
+serial encryption time taken is : 0.007721
+serial decryption time taken is : 0.007808
+the speed up is : 0.994197
+communicational time taken is : 0.637990  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 12 activated an event with value 4 at iteration 15 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003687
+decryption time taken is : 0.003911
+serial encryption time taken is : 0.007648
+serial decryption time taken is : 0.007816
+the speed up is : 2.035306
+communicational time taken is : 0.752069  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 13 activated an event with value 4 at iteration 16 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003713
+decryption time taken is : 0.003856
+serial encryption time taken is : 0.008008
+serial decryption time taken is : 0.007947
+the speed up is : 2.107765
+communicational time taken is : 0.568088  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 14 activated an event with value 4 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.006112
+decryption time taken is : 0.003868
+serial encryption time taken is : 0.007997
+serial decryption time taken is : 0.008017
+the speed up is : 1.604655
+communicational time taken is : 0.581334  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 6 activated an event with value 4 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003650
+decryption time taken is : 0.004039
+serial encryption time taken is : 0.007871
+serial decryption time taken is : 0.007695
+the speed up is : 2.024399
+communicational time taken is : 0.569614  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 7 activated an event with value 4 at iteration 16 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.033565
+decryption time taken is : 0.003861
+serial encryption time taken is : 0.007594
+serial decryption time taken is : 0.007491
+the speed up is : 0.403045
+communicational time taken is : 0.598696  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 8 activated an event with value 4 at iteration 16 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.011124
+decryption time taken is : 0.003812
+serial encryption time taken is : 0.007896
+serial decryption time taken is : 0.007951
+the speed up is : 1.060989
+communicational time taken is : 0.636601  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 9 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.003698
+decryption time taken is : 0.003977
+serial encryption time taken is : 0.007851
+serial decryption time taken is : 0.007866
+the speed up is : 2.047853
+communicational time taken is : 0.622980  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 11 activated an event with value 5 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.009892
+decryption time taken is : 0.003944
+serial encryption time taken is : 0.007689
+serial decryption time taken is : 0.007808
+the speed up is : 1.120074
+communicational time taken is : 0.634231  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 12 activated an event with value 5 at iteration 16 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.035145
+decryption time taken is : 0.004042
+serial encryption time taken is : 0.007980
+serial decryption time taken is : 0.008018
+the speed up is : 0.408240
+communicational time taken is : 0.683492  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 13 activated an event with value 4 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.010028
+decryption time taken is : 0.003999
+serial encryption time taken is : 0.007968
+serial decryption time taken is : 0.007933
+the speed up is : 1.133573
+communicational time taken is : 0.662743  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 14 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.014401
+decryption time taken is : 0.003964
+serial encryption time taken is : 0.008055
+serial decryption time taken is : 0.008042
+the speed up is : 0.876533
+communicational time taken is : 0.636647  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 6 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.027710
+decryption time taken is : 0.003851
+serial encryption time taken is : 0.008016
+serial decryption time taken is : 0.007946
+the speed up is : 0.505755
+communicational time taken is : 0.557225  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 7 activated an event with value 4 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.011506
+decryption time taken is : 0.003871
+serial encryption time taken is : 0.007602
+serial decryption time taken is : 0.007410
+the speed up is : 0.976275
+communicational time taken is : 0.733427  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 8 activated an event with value 4 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.004245
+decryption time taken is : 0.003921
+serial encryption time taken is : 0.007882
+serial decryption time taken is : 0.007776
+the speed up is : 1.917499
+communicational time taken is : 0.766916  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 9 activated an event with value 4 at iteration 19 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.028535
+decryption time taken is : 0.004017
+serial encryption time taken is : 0.007869
+serial decryption time taken is : 0.007943
+the speed up is : 0.485761
+communicational time taken is : 0.605923  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 11 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.018816
+decryption time taken is : 0.003933
+serial encryption time taken is : 0.007878
+serial decryption time taken is : 0.008065
+the speed up is : 0.700840
+communicational time taken is : 0.701006  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 12 activated an event with value 4 at iteration 17 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.006670
+decryption time taken is : 0.003864
+serial encryption time taken is : 0.007679
+serial decryption time taken is : 0.007825
+the speed up is : 1.471863
+communicational time taken is : 0.769396  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 13 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.016627
+decryption time taken is : 0.003912
+serial encryption time taken is : 0.007969
+serial decryption time taken is : 0.007848
+the speed up is : 0.770105
+communicational time taken is : 0.679470  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 6 activated an event with value 4 at iteration 19 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.009218
+decryption time taken is : 0.003941
+serial encryption time taken is : 0.007898
+serial decryption time taken is : 0.007897
+the speed up is : 1.200274
+communicational time taken is : 0.673986  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 7 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.037789
+decryption time taken is : 0.003913
+serial encryption time taken is : 0.007879
+serial decryption time taken is : 0.007825
+the speed up is : 0.376580
+communicational time taken is : 0.768145  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 8 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.011121
+decryption time taken is : 0.003907
+serial encryption time taken is : 0.007881
+serial decryption time taken is : 0.007699
+the speed up is : 1.036729
+communicational time taken is : 0.778568  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 11 activated an event with value 4 at iteration 19 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.010003
+decryption time taken is : 0.003849
+serial encryption time taken is : 0.007876
+serial decryption time taken is : 0.007877
+the speed up is : 1.137202
+communicational time taken is : 0.734808  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 12 activated an event with value 4 at iteration 18 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.022155
+decryption time taken is : 0.003993
+serial encryption time taken is : 0.008011
+serial decryption time taken is : 0.007768
+the speed up is : 0.603444
+communicational time taken is : 0.832075  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 13 activated an event with value 4 at iteration 19 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.006895
+decryption time taken is : 0.003939
+serial encryption time taken is : 0.007987
+serial decryption time taken is : 0.007614
+the speed up is : 1.440020
+communicational time taken is : 0.781144  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 7 activated an event with value 4 at iteration 19 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.009022
+decryption time taken is : 0.003870
+serial encryption time taken is : 0.007896
+serial decryption time taken is : 0.007748
+the speed up is : 1.213561
+communicational time taken is : 0.794607  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 8 activated an event with value 4 at iteration 19 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.004044
+decryption time taken is : 0.003894
+serial encryption time taken is : 0.007554
+serial decryption time taken is : 0.007820
+the speed up is : 1.936804
+communicational time taken is : 0.814079  
+time stamp: 2019/10/19 Sat 19:26:20  message: sensor node 12 activated an event with value 4 at iteration 19 IPname is lo Address is 127.0.0.1 IPname is eno1 Address is 118.139.135.167 encryption time taken is : 0.016037
+decryption time taken is : 0.003906
+serial encryption time taken is : 0.007930
+serial decryption time taken is : 0.007926
+the speed up is : 0.795069
+communicational time taken is : 0.827088  
+the total number of events during the computation is 80
+the average speed up is : 1.266974  
+the maximum speed up is : 2.905423  
+This is the end of the text
