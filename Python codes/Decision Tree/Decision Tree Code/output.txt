@@ -1,0 +1,1 @@
+input train_file: train.txt input test_file: train.txt depth is 10 the accuracy rate:0.9966808914177335
